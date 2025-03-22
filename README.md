@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-全然github使ってないからすっからかんだけどカッコいいから入れてみた．
-いっぱいcommitしてる人は使ったらいいと思う↓
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
